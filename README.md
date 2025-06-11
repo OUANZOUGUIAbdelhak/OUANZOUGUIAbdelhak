@@ -15,7 +15,7 @@
     <img src="chinese-logo.svg" alt="Chinese Logo" style="height: 50px;" />
   </a>
 </div>
-###
+
 
 
 <br clear="both">
