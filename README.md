@@ -10,7 +10,7 @@
 <br clear="both">
 
 <h3 align="left">🌱 I’m currently learning :</h3>
-[![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/Abdelhak)
+[![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/ph.VxcIdM)
 
 ###
 
