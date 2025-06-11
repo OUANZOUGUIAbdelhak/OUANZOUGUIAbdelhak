@@ -10,8 +10,10 @@
 <br clear="both">
 
 <h3 align="left">🌱 I’m currently learning :</h3>
-<h3 align="left" style="font-size: small;">Click here to see my Duolingo streaks </h3>
-<a href="https://www.duolingo.com/profile/ph.VxcIdM"><img src="chinese-logo.svg" alt="Chinese Logo" /></a>
+<div style="display: flex; align-items: center;">
+  <a href="https://www.duolingo.com/profile/ph.VxcIdM"><img src="chinese-logo.svg" alt="Chinese Logo" style="height: 50px;" /></a>
+  <h3 style="font-size: small; margin-left: 10px;">Click here to see my Duolingo streaks</h3>
+</div>
 ###
 
 <br clear="both">
