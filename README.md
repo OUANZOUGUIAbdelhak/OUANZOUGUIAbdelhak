@@ -6,15 +6,16 @@
 
 <p align="left">🧠 currently interning at CEA France, building AI tools for scientific data.<br>🎓 studying AI systems engineering at Centrale Casablanca & Beihang University.<br>🤖 passionate about applying AI to real-world problems, beyond just language.<br>🌍 dreaming of joining a team building AI that truly understands the world.</p>
 
-###
 <br clear="both">
 
 <h3 align="left">🌱 I’m currently learning :</h3>
 <div style="display: flex; align-items: center;">
-  <a href="https://www.duolingo.com/profile/ph.VxcIdM"><img src="chinese-logo.svg" alt="Chinese Logo" style="height: 50px;" /></a>
-  <h3 style="font-size: small; margin-left: 10px;">Click here to see my Duolingo streaks</h3>
+  <a href="https://www.duolingo.com/profile/ph.VxcIdM" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="chinese-logo.svg" alt="Chinese Logo" style="height: 50px;" />
+    <span style="font-size: small; margin-left: 10px; color: black;">Click here to see my Duolingo streaks</span>
+  </a>
 </div>
-###
+
 
 <br clear="both">
 
