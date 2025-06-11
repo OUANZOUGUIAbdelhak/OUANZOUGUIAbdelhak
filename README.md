@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🧠 currently interning at CEA France, building AI tools for scientific data.<br>🎓 studying AI systems engineering at Centrale Casablanca & Beihang University.<br>🤖 passionate about applying AI to real-world problems, beyond just language.<br>🇨🇳  Learning Chinese (慢慢来!) and loving every challenge.<br>🌍 dreaming of joining a team building AI that truly understands the world.</p>
+<p align="left">🧠 currently interning at CEA France, building AI tools for scientific data.<br>🎓 studying AI systems engineering at Centrale Casablanca & Beihang University.<br>🤖 passionate about applying AI to real-world problems, beyond just language.<br>🇨🇳  learning Chinese (慢慢来!) and loving every challenge.<br>🌍 dreaming of joining a team building AI that truly understands the world.</p>
 
 ###
 
