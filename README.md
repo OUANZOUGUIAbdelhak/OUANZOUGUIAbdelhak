@@ -4,13 +4,13 @@
 
 ###
 
-<p align="left">🧠 currently interning at CEA France, building AI tools for scientific data.<br>🎓 studying AI systems engineering at Centrale Casablanca & Beihang University.<br>🤖 passionate about applying AI to real-world problems, beyond just language.<br>🇨🇳  learning Chinese (慢慢来!) and loving every challenge.<br>🌍 dreaming of joining a team building AI that truly understands the world.</p>
+<p align="left">🧠 currently interning at CEA France, building AI tools for scientific data.<br>🎓 studying AI systems engineering at Centrale Casablanca & Beihang University.<br>🤖 passionate about applying AI to real-world problems, beyond just language.<br>🌍 dreaming of joining a team building AI that truly understands the world.</p>
 
 ###
 <br clear="both">
 
 <h3 align="left">🌱 I’m currently learning :</h3>
-[![Chinese Flag](https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg)](https://www.duolingo.com/profile/ph.VxcIdM)
+<a href="https://www.duolingo.com/profile/ph.VxcIdM"><img src="chinese-logo.svg" alt="Chinese Logo" /></a>
 
 ###
 
