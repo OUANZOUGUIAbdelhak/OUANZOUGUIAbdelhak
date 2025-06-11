@@ -11,7 +11,7 @@
 
 <h3 align="left">🌱 I’m currently learning :</h3>
 <div style="display: flex; align-items: center;">
-  <a href="https://www.duolingo.com/profile/ph.VxcIdM">
+  <a href="https://www.duolingo.com/profile/ph.VxcIdO">
     <img src="chinese-logo.svg" alt="Chinese Logo" style="height: 50px;" />
   </a>
 </div>
