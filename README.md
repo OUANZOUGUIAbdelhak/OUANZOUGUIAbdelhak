@@ -1,10 +1,11 @@
 <img src="ai_and_physical_world.jpeg" alt="GitHub Banner" width="100%" />
 
+
 <h3 align="center">Hello World! I'm OUANZOUGUI, a Moroccan AI Enthusiast 🤖🇲🇦 passionate about turning smart models into real-world solutions 🌍💡.</h3>
 
 ###
 
-<p align="left">🧠 currently interning at CEA France, building AI tools for scientific data.<br>🎓 studying AI systems engineering at Centrale Casablanca & Beihang University.<br>🤖 passionate about applying AI to real-world problems, beyond just language.<br>🌍 dreaming of joining a team building AI that truly understands the world.</p>
+<p align="left">🧠 currently interning at CEA France, building AI tools for scientific data.<br>🎓 studying AI systems engineering at Centrale Casablanca 'Morocco' & Beihang University 'China'.<br>🤖 passionate about applying AI to real-world problems, beyond just language.<br>🌍 dreaming of joining a team building AI that truly understands the world.</p>
 
 ###
 <br clear="both">
