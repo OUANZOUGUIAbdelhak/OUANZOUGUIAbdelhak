@@ -14,7 +14,7 @@
 <div style="display: flex; align-items: center;">
   <a href="https://www.duolingo.com/profile/ph.VxcIdO">
     <img src="chinese-logo.svg" alt="Chinese Logo" style="height: 50px;" />
-  </a> click to see my streaks on Duolingo 😜
+  </a>   click to see my streaks on Duolingo 
 </div>
 
 
