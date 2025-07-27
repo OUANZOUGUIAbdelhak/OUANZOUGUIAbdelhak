@@ -12,10 +12,10 @@
 
 <h3 align="left">🌱 I’m currently learning:</h3>
 
-<div style="display: flex; align-items: center; gap: 12px; font-family: sans-serif; font-size: 16px;">
-  <a href="https://www.duolingo.com/profile/ph.VxcIdO" style="display: flex; align-items: center; text-decoration: none; color: black;">
-    <img src="chinese-logo.svg" alt="Chinese Logo" style="height: 40px; margin-right: 10px;" />
-    <span>Click to see my streaks on Duolingo</span>
+<div style="display: flex; align-items: center; font-family: sans-serif; font-size: 16px;">
+  <span style="margin-right: 10px;">Click to see my streaks on Duolingo</span>
+  <a href="https://www.duolingo.com/profile/ph.VxcIdO" style="display: flex; align-items: center;">
+    <img src="chinese-logo.svg" alt="Chinese Logo" style="height: 40px;" />
   </a>
 </div>
 
