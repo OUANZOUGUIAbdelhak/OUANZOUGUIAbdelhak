@@ -5,7 +5,14 @@
 
 ###
 
-<p align="left">🧠 currently interning at CEA France, building AI tools for scientific data.<br>🎓 studying AI systems engineering at Centrale Casablanca 'Morocco' & Beihang University 'China'.<br>🤖 passionate about applying AI to real-world problems, beyond just language.<br>🌍 dreaming of joining a team building AI that truly understands the world.</p>
+<p align="left">🧠 previously interned at CEA France, building AI tools for scientific data.<br>
+🚀 currently working at LinkingMed (China), developing AI systems for deep research and medical knowledge discovery.<br>
+🎓 studying AI systems engineering at Centrale Casablanca (Morocco) & Beihang University (China).<br>
+🤖 passionate about building AI systems that solve real-world problems, beyond just language.<br>
+🌍 dreaming of contributing to teams building AI that truly understands the world.
+</p>
+<p align="left">
+
 
 ###
 <br clear="both">
