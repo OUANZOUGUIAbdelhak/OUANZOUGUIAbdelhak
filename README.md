@@ -38,7 +38,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://apps.apple.com/cn/app/tenkilo-skill-practice-habit/id6802184165">
-    <b>Building Tenkilo — the 10,000 Hours skill mastery app 🚀</b>
+    <b>Built Tenkilo — the 10,000 Hours skill mastery app </b>
   </a>
 </div>
 
