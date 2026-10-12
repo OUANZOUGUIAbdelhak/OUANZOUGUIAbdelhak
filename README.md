@@ -25,7 +25,7 @@
   <img src="chinese-logo.svg" alt="Chinese Logo" height="50" />
   &nbsp;&nbsp;
   <a href="https://www.duolingo.com/profile/ph.VxcIdO">
-    <b>Learning Chinese 🇨🇳 — Click to see my streaks on Duolingo</b>
+    <b>Learning Chinese — Click to see my streaks on Duolingo</b>
   </a>
 </div>
 
