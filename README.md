@@ -35,7 +35,7 @@
 <!-- Building Tenkilo -->
 <div align="left">
   <a href="https://apps.apple.com/cn/app/tenkilo-skill-practice-habit/id6802184165">
-    <img src="face-logo.png" alt="Tenkilo App Logo" height="50" />
+    <img src="image.png" alt="Tenkilo App Logo" height="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://apps.apple.com/cn/app/tenkilo-skill-practice-habit/id6802184165">
